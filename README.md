@@ -1,4 +1,4 @@
-# 🐰 How To: Crear 8 poses de un conejo en Blender
+# 🐰 Crear 8 poses de un conejo en Blender
 
 ## 🎯 Objetivo
 Aprender a crear un conejo en Blender y generar 8 poses para simular movimiento.
