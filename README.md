@@ -89,15 +89,9 @@ Repetir para cada pose.
 
 ---
 
-## 🎬 Imagen de referencia
-![Guía de poses](Imagen%2023%20mar%202026,%2018:43:30%20h.png)
+## 🖼️ Imagen de referencia
 
----
-
-## 💡 Tips
-- Mantén el mismo tamaño en todas las poses
-- Solo cambia la posición del cuerpo
-- Usa la misma cámara
+![Referencia](imagenes/referencia.png)
 
 ---
 
