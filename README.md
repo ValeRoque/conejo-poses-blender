@@ -89,8 +89,8 @@ Repetir para cada pose.
 
 ---
 
-## 🎬 Resultado
-Se obtienen 8 imágenes que simulan el movimiento de un conejo.
+## 🎬 Imagen de referencia
+![Guía de poses](Imagen%2023%20mar%202026,%2018:43:30%20h.png)
 
 ---
 
