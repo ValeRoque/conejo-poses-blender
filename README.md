@@ -91,7 +91,7 @@ Repetir para cada pose.
 
 ## 🖼️ Imagen de referencia
 
-![Referencia](imagenes/referencia.png)
+![Referencia](referencia.png)
 
 ---
 
