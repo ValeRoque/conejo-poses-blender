@@ -90,7 +90,7 @@ Repetir para cada pose.
 ---
 
 ## 🎬 Imagen de referencia
-![Guía de poses](Imagen 23 mar 2026, 18:43:30 h.png) 
+![Guía de poses](Image 23 mar 2026, 06_43_30 p.m..png) 
 ---
 
 ## 💡 Tips
