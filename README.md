@@ -93,6 +93,10 @@ Repetir para cada pose.
 
 ![Referencia](referencia.png)
 
+
+## 🎬 Animación del conejo
+
+![Animacion](imagenes/animacion.gif)
 ---
 
 ## 🧠 Conclusión
